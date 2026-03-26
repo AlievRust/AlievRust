@@ -28,3 +28,5 @@
 🖥️ - DBeaver
 
 🖥️ - Tableu
+
+🖥️ - VSC + Codex/GLM/Koda + SDD + MultiAgentDev / Cursor
